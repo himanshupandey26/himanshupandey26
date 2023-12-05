@@ -8,12 +8,12 @@
 
 #PassionateCoder #AIandMLEnthusiast #GitHubNewbie #BtechCS #GroundedThinking 🌟
 
-- 📫 How to reach me ...
+📫 How to reach me ...
   <br>
-  Instagram:
+- Instagram:
     📸 Connect with me on Insta: instagram.com/himanshu_pandey26 for a glimpse into my coding adventures!
   <br>
-  LinkedIn:
+- LinkedIn:
     🌐 Let's network on LinkedIn: linkedin.com/in/himanshupandey26. Excited about AI and ML!
   
 <!---
