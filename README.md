@@ -14,7 +14,7 @@
     📸 Connect with me on Insta: instagram.com/himanshu_pandey26 for a glimpse into my coding adventures!
   <br>
 - LinkedIn:
-    🌐 Let's network on LinkedIn: linkedin.com/in/himanshupandey26. Excited about AI and ML!
+    🌐 Let's network on LinkedIn: <a href="https://www.linkedin.com/in/himanshupandey26/">himanshupandey26<a/>. Excited about AI and ML!
   
 <!---
 himanshupandey26/himanshupandey26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
