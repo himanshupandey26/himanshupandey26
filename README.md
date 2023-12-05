@@ -15,10 +15,6 @@
   <br>
 - LinkedIn:
     🌐 Let's network on LinkedIn: <a href="https://www.linkedin.com/in/himanshupandey26/">himanshupandey26<a/>. Excited about AI and ML!
-<a href="https://www.linkedin.com/in/himanshupandey26/" target="_blank">
-  <img src="https://raw.githubusercontent.com/mdn/sprints/master/linkedin.svg" alt="LinkedIn" width="50" height="50">
-</a>
-
   
 <!---
 himanshupandey26/himanshupandey26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
