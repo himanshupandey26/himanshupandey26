@@ -11,10 +11,12 @@
 📫 How to reach me ...
   <br>
 - Instagram:
-    📸 Connect with me on Insta: instagram.com/himanshu_pandey26 for a glimpse into my coding adventures!
+    📸 Connect with me on Insta: <a href="https://www.instagram.com/himanshu_pandey26/">himanshu_pandey26<a/> for a glimpse into my coding adventures!
   <br>
 - LinkedIn:
     🌐 Let's network on LinkedIn: <a href="https://www.linkedin.com/in/himanshupandey26/">himanshupandey26<a/>. Excited about AI and ML!
+  [![LinkedIn](https://raw.githubusercontent.com/mdn/sprints/master/linkedin.svg)](https://www.linkedin.com/in/himanshupandey26/)
+
   
 <!---
 himanshupandey26/himanshupandey26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
