@@ -1,4 +1,4 @@
-👋 Hello World! I'm [Your Name], a passionate coding enthusiast who recently embarked on the exciting journey of GitHub. 🚀
+👋 Hello World! I'm Himanshu Pandey, a passionate coding enthusiast who recently embarked on the exciting journey of GitHub. 🚀
 
 👨‍💻 Currently pursuing my B.Tech in Computer Science with a focus on Artificial Intelligence and Machine Learning, I thrive on the thrill of solving complex problems through meticulous analysis. 💡
 
