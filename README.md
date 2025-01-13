@@ -40,16 +40,6 @@
 
 <div align="center">
   <table>
-    <!--<tr>
-      <td>
-        <!-- LeetCode Score -->
-        <img src="https://leetcard.jacoblin.cool/himanshupandey26?theme=radical" alt="LeetCode Score" />
-      </td>
-      <td>
-        <!-- GitHub Streak Stats -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshupandey26&theme=tokyonight_duo" alt="himanshupandey26 GitHub Streak" />
-      </td>
-    </tr> -->
     <tr> 
       <td>
         <!-- Most Used Languages inside the border -->
