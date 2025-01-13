@@ -34,6 +34,40 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshupandey26&show_icons=true&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="himanshupandey26" /></p>
 
+
+# 📊 GitHub Stats
+<hr>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <!-- LeetCode Score -->
+        <img src="https://leetcard.jacoblin.cool/himanshupandey26?theme=radical" alt="LeetCode Score" />
+      </td>
+      <td>
+        <!-- GitHub Streak Stats -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshupandey26&theme=tokyonight_duo" alt="himanshupandey26 GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <!-- Most Used Languages inside the border -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupandey26&langs_count=8&theme=github_dark&layout=compact" alt="Top Languages" width="700" height="auto" />
+      </td>
+      <td>
+        <!-- GitHub Stats and Productive Time Card -->
+        <img src="https://github-readme-stats.vercel.app/api?username=himanshupandey26&show_icons=true&theme=github_dark" alt="himanshupandey26 GitHub Stats" />
+        <br>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himanshupandey26&theme=2077&utcOffset=8" alt="Productive Time" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Divider line -->
+<hr>
+
   
 <!---
 ## 🔗 Connect With Me:
@@ -71,9 +105,46 @@
 
 
 
+
+
 himanshupandey26/himanshupandey26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
 
 
 --->
+
+<!-- 
+# 📊 GitHub Stats
+<hr>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <!-- LeetCode Score -->
+        <img src="https://leetcard.jacoblin.cool/chinmaybhattt?theme=radical" alt="LeetCode Score" />
+      </td>
+      <td>
+        <!-- GitHub Streak Stats -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayBhattt&theme=tokyonight_duo" alt="Chinmay GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <!-- Most Used Languages inside the border -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayBhattt&langs_count=8&theme=github_dark&layout=compact" alt="Top Languages" width="700" height="auto" />
+      </td>
+      <td>
+        <!-- GitHub Stats and Productive Time Card -->
+        <img src="https://github-readme-stats.vercel.app/api?username=ChinmayBhattt&show_icons=true&theme=github_dark" alt="Chinmay GitHub Stats" />
+        <br>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChinmayBhattt&theme=2077&utcOffset=8" alt="Productive Time" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Divider line -->
+<hr>
+-->
