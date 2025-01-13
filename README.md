@@ -104,10 +104,8 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
-<!-- 
-# 📊 GitHub Stats
+<!-- #📊 GitHub Stats
 <hr>
-
 <div align="center">
   <table>
     <tr>
@@ -134,5 +132,5 @@ You can click the Preview link to take a look at your changes.
     </tr>
     </table>
     </div>
-
+    <hr> -->
 <!-- Divider line --> <hr> -->
