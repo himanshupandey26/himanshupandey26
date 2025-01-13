@@ -132,9 +132,7 @@ You can click the Preview link to take a look at your changes.
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChinmayBhattt&theme=2077&utcOffset=8" alt="Productive Time" />
       </td>
     </tr>
-  </table>
-</div>
+    </table>
+    </div>
 
-<!-- Divider line -->
-<hr>
--->
+<!-- Divider line --> <hr> -->
