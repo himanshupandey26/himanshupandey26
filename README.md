@@ -19,6 +19,12 @@
 ## 🔗 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himanshu_pandey26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshupandey26) 
 
+# 💻 Languages And Tools:
+
+   <a href="[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)">
+      <img src="https://skillicons.dev/icons?i=cpp,python,cs,react,javascript,html,css,mysql,git,github,bootstrap,c" />
+  </a>
+
   
 <!---
 ## 🔗 Connect With Me:
